@@ -51,11 +51,9 @@ We keep your information as long as you have an account with us or as long as ne
 
 ## Children's Privacy
 
-PanKan is suitable for all ages, but:
+PanKan is intended for a general audience. We do not knowingly collect personal information from children under the age of 13 (or the relevant minimum age in your jurisdiction) without verifiable parental consent.
 
-*   Users under 13 should have parental consent.
-*   We do not knowingly collect data from children without verification.
-*   Parents can request data deletion by contacting us.
+If you are a parent or guardian and believe that your child has provided us with personal information without your consent, please contact us at huslenganbold42@gmail.com. If we become aware that we have collected personal information from a child without verification of parental consent, we will take steps to remove that information from our servers.
 
 ## Your Choices & Rights
 
@@ -70,10 +68,3 @@ We might update this policy. If we do, we'll post the new version in the app and
 ## Contact Us
 
 Questions? Email us at huslenganbold42@gmail.com.
-
-Or write to:
-
-Khuslen Ganbold
-Mongolia, Ulan bator, Khan-Uul district, Artsatiin am, GardenCity, 1305-303
-Ulaanbaatar, Ulaanbaatar 17100
-Mongolia
