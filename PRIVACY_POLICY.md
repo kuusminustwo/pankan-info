@@ -51,7 +51,11 @@ We keep your information as long as you have an account with us or as long as ne
 
 ## Children's Privacy
 
-PanKan is not for children under 18. We don't knowingly collect information from them. If you believe a child has given us information, please contact us.
+PanKan is suitable for all ages, but:
+
+*   Users under 13 should have parental consent.
+*   We do not knowingly collect data from children without verification.
+*   Parents can request data deletion by contacting us.
 
 ## Your Choices & Rights
 
