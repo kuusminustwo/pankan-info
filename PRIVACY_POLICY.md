@@ -1,6 +1,6 @@
 # PRIVACY POLICY FOR PANKAN
 
-**Last Updated: [Current Date, e.g., May 18, 2025]**
+**Last Updated: [Current Date, e.g., May 19, 2025]**
 
 Hi there! This is the Privacy Policy for PanKan, our Japanese learning app for Mongolian speakers, created by Khuslen Ganbold ("we," "us," or "our"). We want to be clear about how we handle your information.
 
@@ -15,7 +15,7 @@ To make PanKan work and help you learn, we collect some information:
     *   **Payment Info (for Subscriptions):** If you subscribe, payment is handled by Apple (App Store) or RevenueCat. We don't store your full credit card details. They have their own privacy policies.
 
 2.  **Information We Collect Automatically:**
-    *   **Learning Progress:** How you use the app, like lessons completed, quiz scores, and your Spaced Repetition System (SRS) data. This is essential for the app to track your learning.
+    *   **Learning Progress:** How you use the app, like lessons completed, and your Spaced Repetition System (SRS) data. This is essential for the app to track your learning.
     *   **Device & Usage Info:** Basic info about your device (like model and operating system) and how you interact with app features. This helps us improve the app and fix bugs.
 
 ## How We Use Your Information
@@ -24,7 +24,6 @@ We use your information to:
 
 *   Run and improve PanKan (make it work, add features, fix problems).
 *   Manage your account and learning progress.
-*   Personalize your learning experience (especially with SRS).
 *   Process your subscription payments (through Apple/RevenueCat).
 *   Communicate with you (like for support or important updates).
 *   Understand how our app is used so we can make it better.
