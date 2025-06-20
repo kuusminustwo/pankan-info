@@ -67,7 +67,7 @@ Currently, PanKan does not offer users the ability to submit or post public cont
 
 ## 7. Third-Party Services & Links
 
-PanKan uses services like Apple Sign-In, Google Sign-In, and Apple In-App Purchases. Your use of these third-party services is governed by their respective terms and privacy policies. We are not responsible for these third-party services.
+PanKan uses services like Apple Sign-In, Google Sign-In, Firebase, RevenueCat and Apple In-App Purchases. Your use of these third-party services is governed by their respective terms and privacy policies. We are not responsible for these third-party services.
 
 The App might contain links to other websites or services. We are not responsible for these external sites or their content.
 
