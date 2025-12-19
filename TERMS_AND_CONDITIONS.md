@@ -1,6 +1,6 @@
 # TERMS AND CONDITIONS FOR PANKAN
 
-**Last Updated: [Current Date - e.g., May 19, 2025]**
+**Last Updated: December 19, 2025**
 
 ## 1. Welcome to PanKan!
 
