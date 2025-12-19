@@ -1,6 +1,6 @@
 # PRIVACY POLICY FOR PANKAN
 
-**Last Updated: [Current Date, e.g., May 19, 2025]**
+**Last Updated: December 19, 2025**
 
 Hi there! This is the Privacy Policy for PanKan, our Japanese learning app for Mongolian speakers, created by Khuslen Ganbold ("we," "us," or "our"). We want to be clear about how we handle your information.
 
