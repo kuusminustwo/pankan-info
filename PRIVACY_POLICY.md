@@ -4,7 +4,7 @@
 
 Hi there! This is the Privacy Policy for PanKan, our Japanese learning app for Mongolian speakers, created by Khuslen Ganbold ("we," "us," or "our"). We want to be clear about how we handle your information.
 
-By using PanKan, you agree to this policy. If you have questions, email us at huslenganbold42@gmail.com.
+By using PanKan, you agree to this policy. If you have questions, email us at support@pankan.app.
 
 ## What Information We Collect
 
@@ -52,7 +52,7 @@ We keep your information as long as you have an account with us or as long as ne
 
 PanKan is intended for a general audience. We do not knowingly collect personal information from children under the age of 13 (or the relevant minimum age in your jurisdiction) without verifiable parental consent.
 
-If you are a parent or guardian and believe that your child has provided us with personal information without your consent, please contact us at huslenganbold42@gmail.com. If we become aware that we have collected personal information from a child without verification of parental consent, we will take steps to remove that information from our servers.
+If you are a parent or guardian and believe that your child has provided us with personal information without your consent, please contact us at support@pankan.app. If we become aware that we have collected personal information from a child without verification of parental consent, we will take steps to remove that information from our servers.
 
 ## Your Choices & Rights
 
@@ -66,4 +66,4 @@ We might update this policy. If we do, we'll post the new version in the app and
 
 ## Contact Us
 
-Questions? Email us at huslenganbold42@gmail.com.
+Questions? Email us at support@pankan.app.
