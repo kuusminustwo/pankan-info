@@ -3,7 +3,7 @@
 Welcome to PanKan Support! Here you can find answers to common questions and contact information.
 
 ## Contact Us
-Email: huslenganbold42@gmail.com
+Email: support@pankan.app
 
 ## FAQ
 
