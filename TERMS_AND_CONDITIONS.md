@@ -6,7 +6,7 @@
 
 These Terms and Conditions ("Terms") are a legal agreement between you ("you" or "User") and Khuslen Ganbold, operating as PanKan ("PanKan," "we," "us," or "our"). These Terms govern your use of the PanKan mobile application (the "App") and any related services we offer (collectively, the "Services").
 
-Our contact email is huslenganbold42@gmail.com. Our registered address is Khan-uul duureg, Artsatiin am, GardenCity, 1305-303, Ulaanbaatar, Ulaanbaatar 17100, Mongolia.
+Our contact email is support@pankan.app. Our registered address is Khan-uul duureg, Artsatiin am, GardenCity, 1305-303, Ulaanbaatar, Ulaanbaatar 17100, Mongolia.
 
 **By using PanKan, you agree to these Terms. If you don't agree, please don't use the App.**
 
@@ -125,7 +125,7 @@ We reserve the right, at your expense, to assume the exclusive defense and contr
 
 ## 13. Dispute Resolution
 
-**Informal Negotiations:** To expedite resolution and control the cost of any dispute, controversy, or claim related to these Terms (each a "Dispute"), you and PanKan agree to first attempt to negotiate any Dispute informally for at least thirty (30) days before initiating arbitration. Such informal negotiations commence upon written notice from one party to the other. You will send your notice to huslenganbold42@gmail.com.
+**Informal Negotiations:** To expedite resolution and control the cost of any dispute, controversy, or claim related to these Terms (each a "Dispute"), you and PanKan agree to first attempt to negotiate any Dispute informally for at least thirty (30) days before initiating arbitration. Such informal negotiations commence upon written notice from one party to the other. You will send your notice to support@pankan.app.
 
 **Binding Arbitration:** If we cannot resolve a Dispute through informal negotiations, the Dispute will be finally and exclusively resolved by binding arbitration. The arbitration shall be commenced and conducted under the rules of an arbitration body agreed upon by the parties, or if no agreement, then under the rules of a recognized international arbitration body chosen by us, in Ulaanbaatar, Mongolia. The arbitration will be conducted in English. The arbitration will be conducted by a single arbitrator. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
 
@@ -141,4 +141,4 @@ These Terms and your use of the Services are governed by and construed in accord
 *   **No Waiver:** Our failure to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision.
 *   **Severability:** If any provision or part of a provision of these Terms is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms and does not affect the validity and enforceability of any remaining provisions.
 *   **No Partnership:** There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms or use of the Services.
-*   **Contact:** For any questions or to report violations of these Terms, please contact us at huslenganbold42@gmail.com.
+*   **Contact:** For any questions or to report violations of these Terms, please contact us at support@pankan.app.
